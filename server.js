@@ -26,7 +26,7 @@ const server = http.createServer((req, res) => {
             <div class="box">
                 <h1>🚀 SERVER IOT ĐANG HOẠT ĐỘNG!</h1>
                 <p>Trạng thái: <span class="badge">ONLINE 24/7</span></p>
-                <p>Địa chỉ WebSocket: <strong>wss://d-n-iot.onrender.com</strong></p>
+                <p>Dư án IoT : Nhóm 6</p>
                 <p style="font-size: 13px; color: #888;">Sẵn sàng kết nối với ESP32 & App Android</p>
             </div>
         </body>
