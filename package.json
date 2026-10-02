@@ -1,17 +1,13 @@
 {
-  "name": "esp32-server",
+  "name": "d-n-iot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Smart Home IoT Render Cloud Server",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "ws": "^8.22.0"
+    "ws": "^8.18.0",
     "mongoose": "^8.0.0"
   }
 }
